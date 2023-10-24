@@ -221,3 +221,5 @@ itens_vendidos_tree.heading("#3", text="Total")
 itens_vendidos_tree.pack()
 
 root.mainloop()
+
+#Cassio alterou o codigo.
