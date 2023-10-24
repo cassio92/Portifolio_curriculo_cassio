@@ -223,3 +223,4 @@ itens_vendidos_tree.pack()
 root.mainloop()
 
 #Cassio alterou o codigo.
+#estou fazendo um novo teste.
